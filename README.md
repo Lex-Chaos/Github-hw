@@ -29,3 +29,5 @@ override.tf.json
 ### Файлы CLI 
 .terraformrc
 terraform.rc
+
+Добавил новую строчку для выполнения задания
