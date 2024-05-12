@@ -31,3 +31,5 @@ override.tf.json
 terraform.rc
 
 Добавил новую строчку для выполнения задания
+
+Добавил файл file_ide.txt
